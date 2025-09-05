@@ -1,5 +1,5 @@
 Flask
-werkzeug
+requests
 ytmusicapi
 yt-dlp
-gunicorn
+werkzeug
