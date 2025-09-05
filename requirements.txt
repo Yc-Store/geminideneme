@@ -1,0 +1,5 @@
+Flask
+werkzeug
+ytmusicapi
+yt-dlp
+gunicorn
